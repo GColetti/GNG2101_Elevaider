@@ -3,10 +3,11 @@
 ![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)
 [![forthebadge](https://forthebadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0)
 
-**:trophy:  Design Day Winner for Accessibility 3**
+### :trophy: [Design Day Winner for Accessibility 3](https://engineering.uottawa.ca/CEED/student-competitions/past-winners)
 ## [Project Repo](https://makerepo.com/ggior072/gng2101b23elevaider)
 
 Elevaider is an iOS based application that uses object recognition and tracking to guide visually impaired users to elevator buttons.
+
 
 # [Demo Video](https://youtu.be/hHGptZLmvfw)
 
